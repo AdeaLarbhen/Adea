@@ -6,15 +6,15 @@ Larbhen Felix A. Adea
 
   -Home Page
   -Product Page 
-	-Menu Page
+  -Menu Page
   -Add to Cart Feature
-	-Category Page
+  -Category Page
   -About Us Page
   -Contact Us Page
   -Registration Page
   -Login Page
-	-Dashboard Page
-	-Profile Page
-	-User Page
-	-Paypal/Checkout Page
+  -Dashboard Page
+  -Profile Page
+  -User Page
+  -Paypal/Checkout Page
 	
