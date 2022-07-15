@@ -4,14 +4,25 @@ This is my Responsive E-Commerce Website, I sell Smartphones,Tablets, Laptops, a
 
   Larbhen Felix A. Adea
       -Home Page
+      
       -About us Page
+      
       -Contact us Page
+      
       -Add to Cart Feature
+      
       -Menu Feature
+      
       -Checkout Page
+      
       -Login Page
+      
       -Registration Page
+      
       -Products Page
+      
       -Profile Page
+      
       -Users Page
+      
       -Dashboard Page
